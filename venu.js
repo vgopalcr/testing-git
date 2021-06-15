@@ -11,3 +11,5 @@ confusion stage !!!!!!!!!!!!!!!!!!!
 
 updated everything but some changes needed!
 :eeeeeeeeeeeeeee
+
+after confusion clear
