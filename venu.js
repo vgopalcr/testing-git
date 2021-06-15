@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 
 var http =require('http');
 
@@ -15,3 +16,39 @@ updated everything but some changes needed!
 after confusion clear
 
 RAHIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+=======
+code to be update when done 
+rahi kuttytytyyt
+
+
+ad
+
+
+added
+
+
+added
+
+
+added
+
+
+added
+
+
+added
+
+
+added
+
+
+added
+
+
+adde
+
+
+added feature
+
+
+added
