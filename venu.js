@@ -10,6 +10,10 @@ updates on 08062021
 branch feature added
 
 
+<<<<<<< HEAD
 again back to feature
 
 informed rahi
+=======
+today addeddmaster 
+>>>>>>> master
