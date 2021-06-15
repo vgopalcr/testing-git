@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 
 var http =require('http');
 
@@ -16,7 +16,7 @@ updated everything but some changes needed!
 after confusion clear
 
 RAHIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
-=======
+clear kiya 
 code to be update when done 
 rahi kuttytytyyt
 
@@ -52,3 +52,7 @@ added feature
 
 
 added
+=======
+code to be update when done 
+rahi kuttytytyytyty
+>>>>>>> feature
